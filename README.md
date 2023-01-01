@@ -12,3 +12,5 @@ Using demo point cloud available in open3d, this project implement a custom func
 * Repeat the previous steps for specific number of iterations.
 
 ## Results
+
+![image](https://user-images.githubusercontent.com/69100847/210169768-cac5e684-a142-4359-b2c7-4f38d4253e4a.png)
